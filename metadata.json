@@ -1,0 +1,6 @@
+{
+  "name": "QoEFlow — Software-Defined QoE Middleware",
+  "description": "Active Queue Management (CAKE/FQ-CoDel) middleware and predictive loaded latency diagnostics for ISPs to eliminate bufferbloat, prevent truck rolls, and boost subscriber QoE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
